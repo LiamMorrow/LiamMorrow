@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Liam, an Australia based software engineer who is passionate about open source. My favourite technologies at the moment are dotnet and Typescript!  
+I'm Liam, an Australia based software engineer who is passionate about open source.
+
+- 🔬 My favourite technologies at the moment are dotnet and Typescript!  
 - 🐶 That strapping young lad in my profile picture is Banjo! He's responsible for making sure I keep a healthy work life balance (walks, treats, play should never be neglected)
 
 
