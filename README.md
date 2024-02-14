@@ -7,7 +7,7 @@ I'm Liam, some things about me:
 - 🐶 That strapping young lad in my profile picture is Banjo! He's responsible for making sure I keep a healthy work life balance (walks, treats, and play should never be neglected)
 
 
-[![Liam Morrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMorrow)](https://github.com/LiamMorrow/github-readme-stats)
+[![Liam Morrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMorrow)](https://github.com/LiamMorrow)
 
 <!--
 **LiamMorrow/LiamMorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
