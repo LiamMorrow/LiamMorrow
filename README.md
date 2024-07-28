@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Liam, some things about me:
 
-- 🇦🇺 I'm an Australian software engineer
+- 🇦🇺 I'm an Australian software engineer currently based in Melbourne
 - :octocat: I'm extremely passionate about open source, and try to give back in meaningful ways
 - 🔬 My favourite technologies at the moment are dotnet and Typescript!  
 - 🐶 That strapping young lad in my profile picture is Banjo! He's responsible for making sure I keep a healthy work life balance (walks, treats, and play should never be neglected)
