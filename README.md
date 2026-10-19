@@ -5,6 +5,10 @@ I'm Liam, some things about me:
 - :octocat: I'm extremely passionate about open source, and try to give back in meaningful ways
 - Creator and maintainer of LiftLog, hopefully the last gym tracker I ever need to use
 
-
-
-[![Liam Morrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMorrow)](https://github.com/LiamMorrow)
+<a href="https://github.com/LiamMorrow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=LiamMorrow&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=aura_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=LiamMorrow&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_green">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=LiamMorrow&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=shadow_green">
+  </picture>
+</a>
